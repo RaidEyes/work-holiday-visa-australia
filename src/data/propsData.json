@@ -1,0 +1,17 @@
+{
+    "area": {
+        "id": "area",
+        "value": "Choose area",
+        "options": ["Remote and very remote Australia", "Natural disaster declared areas", "Bushfire declared areas", "Regional Australia", "Northern Australia"] 
+    },
+    "state": {
+        "id": "state",
+        "value": "Choose state",
+        "options": ["Northern Territory", "Australian Capital Territory", "New South Wales", "Queensland", "Queensland (all areas north of the Tropic of Capricorn)", "South Australia", "Tasmania", "Victoria", "Western Australia", "Western Australia (all areas north of the Tropic of Capricorn)"]
+    },
+    "type of work": {
+        "id": "workType",
+        "value": "Choose type of work",
+        "options": ["Bushfire recovery work", "Tourism and hospitality","Plant and animal cultivation", "Contrucstion","Forestry and fishing"]  
+    }
+}
